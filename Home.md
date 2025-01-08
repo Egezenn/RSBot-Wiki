@@ -16,7 +16,7 @@ Contents are subject to major change, as there have been 8 major releases since 
 ## Supported clients
 
 | Region          | Version                            |
-|-----------------|------------------------------------|
+|:----------------|:-----------------------------------|
 | Japanese Old    | JSRO_SL                            |
 | Thailand        | Blackrogue 100                     |
 | Thailand        | Blackrogue 110                     |
